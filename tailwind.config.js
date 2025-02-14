@@ -10,6 +10,7 @@ module.exports = {
         gradientcolor: "#EDF2F9",
         footergrey: "#D2D2D2",
         footerlink: "#DODODO",
+        greylinks: "#FOFOFO"
       }
     },
   },

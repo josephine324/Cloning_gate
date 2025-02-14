@@ -6,6 +6,7 @@ module.exports = {
       colors:{
         pagecolor: "#0C2340",
         colordiv: "#AE9142",
+        skyblue: "#EDF2F9",
       }
     },
   },

@@ -11,6 +11,9 @@ module.exports = {
         footergrey: "#D2D2D2",
         footerlink: "#DODODO",
         greylinks: "#FOFOFO"
+      },
+      fontFamily:{
+        fontInitial: ["Sumana", "Georgia", "Times New Roman",  "serif"],
       }
     },
   },

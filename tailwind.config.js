@@ -8,6 +8,8 @@ module.exports = {
         colordiv: "#AE9142",
         skyblue: "#EDF2F9",
         gradientcolor: "#EDF2F9",
+        footergrey: "#D2D2D2",
+        footerlink: "#DODODO",
       }
     },
   },

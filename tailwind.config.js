@@ -7,6 +7,7 @@ module.exports = {
         pagecolor: "#0C2340",
         colordiv: "#AE9142",
         skyblue: "#EDF2F9",
+        gradientcolor: "#EDF2F9",
       }
     },
   },
